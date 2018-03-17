@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Move solarized.vim to .vim/colors
-mv solarized.vim ~/.vim/colors
+mv solarized.vim ~/.vim/colors/solarized.vim
 mv .vimrc ~/.vimrc
-mv config ~/.ssh
-rm -r configfolder 
+mv config ~/.ssh/config
 
