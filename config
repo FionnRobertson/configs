@@ -1,0 +1,13 @@
+Host uni
+	Hostname joshua.dcs.warwick.ac.uk
+	User u1402557
+
+Host github.com-FionnRobertson
+    Hostname git@github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+
+Host tinis
+    Hostname tinis.csc.warwick.ac.uk
+    User csudgz
+
